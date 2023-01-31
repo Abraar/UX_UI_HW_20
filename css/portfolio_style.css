@@ -1,0 +1,44 @@
+.navbar-custom {
+    background-color: #E3E9E3;
+}
+ 
+.active {
+  color: black;
+  background-color: green !important;
+}
+
+.btcol{
+  background-color: green !important;
+
+}
+.navbar-brand {
+  background-color: gold !important
+}
+
+.text-sm-center{
+  color: black;
+}
+
+img {
+  max-width:25%;
+  height:25%;
+}
+.pro1 {
+  max-width:50%;
+  height:75%;
+}
+.pro2 {
+  max-width:75%;
+  height:75%;
+}
+.pro3 {
+  max-width:75%;
+  height:75%;
+}
+body {
+  background-color: #84FF8C;
+}
+.card{
+  margin: 2%;
+
+}
